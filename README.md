@@ -30,7 +30,7 @@ Command line is powerful and is what we want to encourage devs to take on.
 		* [Get it here](http://git-scm.com/download/mac)
 			* Follow through the on screen installer. 
 
-## Configuring Git
+## Configuring Git:hammer: :wrench:
 Configure user information for all local repositories.
 ### Run the following command on the terminal
 	* Set the name you want attached to all your commints
@@ -44,7 +44,7 @@ Configure user information for all local repositories.
 			$ cat ~/.gitconfig
 
 
-## Creating Repos
+## Creating Repos:footprints:
 Create a new repository which you want git to track changes. :footprints:
 ### New repos
 * Change directory to the newly created folder
@@ -57,7 +57,7 @@ Create a new repository which you want git to track changes. :footprints:
 		This creates a .git folder which now helps in keeping track of every change 
 		made in that folder alone.
 
-### Existing repos
+### Existing repos:globe_with_meridians:
 * Online repos
 
 		$ git clone [url_to_the_repo] "name_of_folder"[optional]

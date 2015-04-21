@@ -44,4 +44,38 @@ Configure user information for all local repositories.
 			$ cat ~/.gitconfig
 
 
+## Creating Repos
+Create a new repository which you want git to track changes. :footprints:
+### New repos
+* Change directory to the newly created folder
+		$ cd [path_to_folder]
+* Initialize git. Tell git to track changes :footprints:
+		$ git init 
+
+		This creates a .git folder which now helps in keeping track of every change made in that folder alone.
+
+### Existing repos
+* Online repos
+		$ git clone [url_to_the_repo] "name_of_folder"[optional]
+
+		This downloads a project and it's entire version history.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -41,7 +41,7 @@ Configure user information for all local repositories.
 	 ** Enable helpful colorization in the command line output **
 			$ git config --global color.ui auto
 
-The above creates a .gitconfig file in your home folder. You can view the details by running
+* The above creates a .gitconfig file in your home folder. You can view the details by running
 			$ cat ~/.gitconfig
 
 

@@ -54,7 +54,8 @@ Create a new repository which you want git to track changes. :footprints:
 
 		$ git init 
 
-		This creates a .git folder which now helps in keeping track of every change made in that folder alone.
+		This creates a .git folder which now helps in keeping track of every change 
+		made in that folder alone.
 
 ### Existing repos
 * Online repos

@@ -32,16 +32,18 @@ Command line is powerful and is what we want to encourage devs to take on.
 ## Configuring Git
 Configure user information for all local repositories.
 ### Run the following command on the terminal
-	* Set the name you want attached to all your commints
+	 ** Set the name you want attached to all your commints **
 			$ git config --global user.name "Your Name"
-	* Set the email you want attached to all your commits
+
+	 ** Set the email you want attached to all your commits **
 			$ git config --global user.email "your email address"
-	* Enable helpful colorization in the command line output
+
+	 ** Enable helpful colorization in the command line output **
 			$ git config --global color.ui auto
 
-#### This creates a .gitconfig file in your home folder. You can view the details by running
+The above creates a .gitconfig file in your home folder. You can view the details by running
 			$ cat ~/.gitconfig
 
 
 
-			
+

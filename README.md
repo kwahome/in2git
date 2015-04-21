@@ -16,10 +16,10 @@ Command line is powerful and is what we want to encourage devs to take on.
 
 * Linux Users [Run the command in the terminal]
 	* Debian-based(e.g Ubuntu)
-			sudo apt-get install git
+				sudo apt-get install git
 
 	* Fedora
-			run yum install git
+				run yum install git
 
 * Mac Users
 	* Mavericks and Yosemite

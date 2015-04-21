@@ -15,11 +15,11 @@ Command line is powerful and is what we want to encourage devs to take on.
 ### Command Line based(Terminal | CMD)
 
 * Linux Users [Run the command in the terminal]
-	* Debian-based(e.g Ubuntu)
-				sudo apt-get install git
+		Debian-based(e.g Ubuntu)
+		sudo apt-get install git
 
-	* Fedora
-				run yum install git
+		Fedora
+		run yum install git
 
 * Mac Users
 	* Mavericks and Yosemite

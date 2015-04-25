@@ -98,6 +98,21 @@ Register a repo bookmark and exchange version history.
 	
 		$ git remote add [remote_branch_name] [clone_url]
 
+* To publish local commits to your online repo open terminal and:
+
+		$ git push -u [remote_branch_name] [master_branch]
+
+		or
+
+		git push
+
+* Download online changes and incorporate changes to the local repo:
+
+		$ git pull -u [remote_branch_name] [master_branch]
+
+		or
+
+		$ git pull
 
 
 

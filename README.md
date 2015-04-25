@@ -65,6 +65,30 @@ Create a new repository which you want git to track changes. :footprints:
 		This downloads a project and it's entire version history.
 
 
+## Make Changes
+Reviewing edits and crafting commit transactions
+
+		$ git status
+		~Lists all the new or modified files to be commited
+
+		$ git diff
+		~Shows file differences not yet staged
+
+		$ git diff [filename]
+		~Shows differences not yet staged for a particular file
+
+		$ git diff --staged
+		~Show file differences between staging  and the last file version
+
+		$ git add [filename]
+		~Creates a snapshot of the file in preparation for versioning
+
+		$ git commit -m "[descriptive message about the change]"
+		Records file snapshots permanently in version history
+
+		$ git reset [filename]
+		~Unstage a file but preserve its contents
+
 
 
 

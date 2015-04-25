@@ -89,6 +89,48 @@ Reviewing edits and crafting commit transactions
 		$ git reset [filename]
 		~Unstage a file but preserve its contents
 
+## Synchronizing changes
+Register a repo bookmark and exchange version history.
+
+* Log in to [Github](https://github.com) and create a repo there.
+* Copy the clone url for that repo
+* To sync this online repo with a local repo open terminal and:
+	
+		$ git remote add [remote_branch_name] [clone_url]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

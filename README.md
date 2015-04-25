@@ -1,5 +1,7 @@
 # Dive into Git
-Quick guide to the basics of using git | github. 
+Quick guide to the basics of using git | github.
+
+If you need clarification, please raise an issue [Here](https://github.com/devsgroupuon/in2git/issues) 
 
 ## Installing Git
 Git basically provides GUI based client application as well as command line. 

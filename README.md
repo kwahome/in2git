@@ -86,6 +86,7 @@ Reviewing edits and crafting commit transactions
 		$ git commit -m "[descriptive message about the change]"
 		Records file snapshots permanently in version history
 
+
 		$ git reset [filename]
 		~Unstage a file but preserve its contents
 
@@ -116,9 +117,19 @@ Register a repo bookmark and exchange version history.
 
 
 
+## Redo Commits
+Erase mistakes and craft replacement history.
+
+		$ git reset [commit_id]
+		The commit_id is the hashed SHA1 40 digit character word.
+		Only the first 7 characters are required though e.g.
+
+		$ git reset [5de8d40]
+		Undoes all commits after [commit], preserving changes locally.
 
 
-
+		$ git reset --hard [commit]
+		Discards all history and changes back to the specified commit
 
 
 

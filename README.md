@@ -133,7 +133,18 @@ Erase mistakes and craft replacement history.
 
 
 
+## Little hacks and tricks
+Some shorthands to help quicken your gittiness :100:
 
+		$ git commit -am "[descriptive message]"
+		This adds new changes to the staging area and commits the changes at once
+
+		$ git commit --amend -am "[descriptive message]"
+		This commits changes made but overides the previous commit so that you only
+		have one commit for say a change you forgot to add in the previous commit
+
+		$ git add . ; git commit -m "[descriptive message]" ; git push
+		Add all changes to staging area, commit them and push to the local remote at once
 
 
 

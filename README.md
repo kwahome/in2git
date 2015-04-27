@@ -1,13 +1,14 @@
 # Dive into Git
 Quick guide to the basics of using git | github.
 
+If you need clarification, please raise an issue [Here](https://github.com/devsgroupuon/in2git/issues)
+
 ## What git is
 Git is a distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows. Git was initially designed and developed by Linus Torvalds for Linux kernel development in 2005, and has since become the most widely adopted version control system for software development. [Wiki](http://en.wikipedia.org/wiki/Git_(software))
 
 ## What git is not
 Git is EVERYTHING
-
-If you need clarification, please raise an issue [Here](https://github.com/devsgroupuon/in2git/issues) 
+ 
 
 ## Installing Git
 Git basically provides GUI based client application as well as command line. 
